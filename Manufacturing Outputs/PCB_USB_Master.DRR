@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB_USB_Master.CSPcbDoc   5/29/2022  9:14:35 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_USB_Master.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2032mm (8mil)          Round          6                4.50 mm (0.18 Inch)
+T2        0.25mm (9.842mil)        Round          25               26.00 mm (1.02 Inch)
+T3        0.3mm (11.811mil)        Round          180              383.73 mm (15.11 Inch)
+T4        0.6mm (23.622mil)        Round          4                17.73 mm (0.70 Inch)
+T5        0.9mm (35.433mil)        Round          10               28.54 mm (1.12 Inch)
+T6        1mm (39.37mil)           Round          4                13.26 mm (0.52 Inch)
+T7        1.7mm (66.929mil)        Round          2                15.70 mm (0.62 Inch)
+T8        0.55mm (21.654mil)       Round          2         NPTH   6.80 mm (0.27 Inch)
+T9        3.2mm (125.984mil)       Round          2         NPTH   11.43 mm (0.45 Inch)
+---------------------------------------------------------------------------
+Totals                                            235              507.69 mm (19.99 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
