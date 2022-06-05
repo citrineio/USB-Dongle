@@ -1,4 +1,3 @@
-# The largest heading
 # Datasheet Descriptions
 | Datasheet Name | Part | Part Description|
 |--|--|--|
